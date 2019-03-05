@@ -15,5 +15,12 @@ namespace DemoTest
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int a = 6;
+            int b = 8;
+            int c = a + b;
+        }
     }
 }
